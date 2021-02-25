@@ -1,0 +1,6 @@
+1.cd 到目录
+    cd /Users/YiMi/Desktop/Script/buglySymboliOS2
+2.吧对应dSYM文件放到桌面
+3.执行
+    java -jar buglySymboliOS.jar -i /Users/YiMi/Desktop/网付.app.dSYM
+4.桌面生成 符号表
